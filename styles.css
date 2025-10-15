@@ -215,7 +215,7 @@ img {
 .row {
     width: 100%;
     max-width: 1200px;
-    margin 0 auto;
+    margin: 0 auto;
 }
 
 .row__column {
@@ -370,7 +370,6 @@ HIGHLIGHTS
 
 /* FOOTER */
 
-
 footer {
     background-color: #242424;
 }
@@ -394,6 +393,7 @@ footer {
     color: #fff;
     margin-top: 8px;
 }
+
 
 
 /*  SMALL PHONES, TABLETS,LARGE SMART PHONES  */
